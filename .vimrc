@@ -12,4 +12,10 @@ set number
 " Font
 set gfn=Monaco:h14
 
+" Set leader key
+let mapleader = ','
+
 call pathogen#infect()
+call pathogen#helptags()
+
+set hlsearch
