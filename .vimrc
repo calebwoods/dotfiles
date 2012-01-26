@@ -11,3 +11,5 @@ set number
 
 " Font
 set gfn=Monaco:h14
+
+call pathogen#infect()
