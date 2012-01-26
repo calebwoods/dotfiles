@@ -1,0 +1,14 @@
+[user]
+	name = Caleb Woods
+	email = calebawoods@gmail.com
+[heroku]
+	account = personal	
+[alias]
+  st = status
+  cm = commit -m
+  cam = commit -am
+  br = branch
+  co = checkout
+  aa = add --all
+  cpportfolio
+  np = log origin/master.. --pretty=format:'%h : %s'
