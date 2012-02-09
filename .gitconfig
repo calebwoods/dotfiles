@@ -10,5 +10,6 @@
   br = branch
   co = checkout
   aa = add --all
+  d = diff
   cpportfolio
   np = log origin/master.. --pretty=format:'%h : %s'
